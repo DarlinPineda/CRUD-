@@ -1,0 +1,36 @@
+#cuerpo{
+background-color: #FACCFA;
+
+
+
+}
+nav ul{
+	background-color: #08088A;
+	border-bottom:  #facc2e  solid 3px;
+
+}
+
+nav ul li a{
+	font-size: 20px;
+	color: white;
+}
+
+
+#formulario{
+	margin-left: 20%;
+	margin-right: 20%;
+	padding-left: 15%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	border: 1px solid #fff;
+	background-color: #58D3F7;
+}
+
+#footer{
+	text-align: center;
+
+}
+#reporte{
+	text-align: center;
+}
